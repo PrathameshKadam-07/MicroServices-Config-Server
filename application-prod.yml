@@ -1,5 +1,5 @@
 spring:
-  application: DEV File
+  application: Prod File
 
 eureka:
   instance:
